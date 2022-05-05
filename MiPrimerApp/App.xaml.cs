@@ -10,7 +10,7 @@ namespace MiPrimerApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MyContentPage();
         }
 
         protected override void OnStart()
