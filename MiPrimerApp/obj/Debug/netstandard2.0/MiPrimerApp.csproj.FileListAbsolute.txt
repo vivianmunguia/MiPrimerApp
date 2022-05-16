@@ -1,0 +1,15 @@
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.deps.json
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.dll
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\ref\MiPrimerApp.dll
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.pdb
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.csproj.AssemblyReference.cache
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.AssemblyInfoInputs.cache
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.AssemblyInfo.cs
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.dll
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\ref\MiPrimerApp.dll
+C:\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.pdb

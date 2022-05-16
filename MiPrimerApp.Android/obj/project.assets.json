@@ -2142,18 +2142,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vmunguia\\.nuget\\packages\\": {},
+    "C:\\Users\\andy_\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
+      "projectUniqueName": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
       "projectName": "MiPrimerApp.Android",
-      "projectPath": "C:\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
-      "packagesPath": "C:\\Users\\vmunguia\\.nuget\\packages\\",
-      "outputPath": "C:\\MiPrimerApp\\MiPrimerApp.Android\\obj\\",
+      "projectPath": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
+      "packagesPath": "C:\\Users\\andy_\\.nuget\\packages\\",
+      "outputPath": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2161,7 +2161,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\vmunguia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj": {
-              "projectPath": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj"
+            "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj": {
+              "projectPath": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj"
             }
           }
         }

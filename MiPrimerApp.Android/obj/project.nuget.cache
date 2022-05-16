@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p5c8UL/7nKswi4WgLUCGP7KwA1/snMxl7cZuyagm9ModLqw+8UCfXCPGUYg8/pmHEVhmnc/YS9Sd61pPG5yeuA==",
+  "dgSpecHash": "7wwrDEGIPMTOsr2ShOv3uUAsoorPSGz5uDx6AUeT22VdN1FxEl7ErMaXKvTNRuC9K8k2IdWUeD9Wl+E+2VZCeg==",
   "success": true,
-  "projectFilePath": "C:\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
+  "projectFilePath": "C:\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp.Android\\MiPrimerApp.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vmunguia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
